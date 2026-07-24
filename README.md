@@ -6,7 +6,8 @@ SorTech **infinitPINN** 플랫폼 문서 및 Layer 3~4 UI/UX 벤치마크 자료
 
 | 문서 | 설명 |
 |------|------|
-| [InfinitPINN Docs Index](docs/infinitpinn/README.md) | 아키텍처·Framework MD 문서 맵 |
+| [**Edge · Web · SPC 3종 Framework**](docs/infinitpinn/frameworks/README.md) | 플랫폼 근간 3종 제품 관점 MD |
+| [InfinitPINN Docs Index](docs/infinitpinn/README.md) | 아키텍처·Framework 장별 MD 맵 |
 | [분석 요약·오픈이슈](docs/infinitpinn/08-analysis-summary.md) | TBD, FE 화면 매핑, 약어 |
 | [원본 PDF](docs/infinitpinn/InfinitPINN_Framework_Architecture_v0.2.pdf) | Framework v0.2 원본 |
 
