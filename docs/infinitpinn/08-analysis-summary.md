@@ -14,6 +14,8 @@ InfinitPINN은 단순 MES/ERP 화면 모음이 아니라,
 
 Kafka/gRPC/REST로 묶고, 그 위에 **Spring Boot 공통 Framework**(권한·영속성·메시지·감사)를 올리는 **Control-centric Factory Intelligence 플랫폼**이다.
 
+**제품 제작 단위(근간 3종):** [Edge · Web · SPC Frameworks](./frameworks/README.md)
+
 FE는 “데이터 대시보드”가 아니라 **관제·실행·승인·감사**가 한 줄로 이어지는 UX가 필요하다.
 
 ---

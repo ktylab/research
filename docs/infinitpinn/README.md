@@ -12,7 +12,14 @@ SorTech **InfinitPINN** 플랫폼의 시스템 아키텍처 및 Backend Framewor
 
 ---
 
-## 문서 맵
+## 3종 Framework (제품 관점) ★
+
+플랫폼 근간을 **Edge · Web · SPC** 로 나눠 제작할 때의 문서:
+
+→ **[frameworks/README.md](./frameworks/README.md)**  
+공통 코어 · Web · Edge · SPC · Cross-cutting · 갭/백로그
+
+## 문서 맵 (원본 장 순서)
 
 | # | 문서 | 원본 장 | 요약 |
 |---|------|---------|------|
