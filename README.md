@@ -9,6 +9,7 @@ ISA-95 Layer 3~4(MES / ERP / APS) 웹 업무시스템 UI/UX 벤치마크 — 소
 | [한국·글로벌 Layer 3~4 벤치마크](research/layer34-web-uisystem-benchmark-kr-global.md) | 제품 맵, 화면 유형 12종, 차별화 방향 |
 | [글로벌 UI 자료 수집·트렌드](research/manufacturing-business-system-ui-report.md) | 국외 링크·트렌드 상세 |
 | [화면 유형별 PPT](deliverables/SorTech_Layer34_UI_Benchmark.pptx) | 24슬라이드 벤치마크 발표 자료 |
+| [2인 조사 업무지시서](research/ui-research-work-orders-2staff.md) | 시안용 기초자료 A/B 역할·산출물·일정 |
 
 ## PPT 재생성
 
