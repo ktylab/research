@@ -1,8 +1,16 @@
-# Manufacturing Business System UI Research
+# Manufacturing Business System UI Research / InfinitPINN Docs
 
-ISA-95 Layer 3~4(MES / ERP / APS) 웹 업무시스템 UI/UX 벤치마크 — 소르테크 infinitPINN 시안 설계용.
+SorTech **infinitPINN** 플랫폼 문서 및 Layer 3~4 UI/UX 벤치마크 자료.
 
-## Documents
+## InfinitPINN Platform (Framework v0.2)
+
+| 문서 | 설명 |
+|------|------|
+| [InfinitPINN Docs Index](docs/infinitpinn/README.md) | 아키텍처·Framework MD 문서 맵 |
+| [분석 요약·오픈이슈](docs/infinitpinn/08-analysis-summary.md) | TBD, FE 화면 매핑, 약어 |
+| [원본 PDF](docs/infinitpinn/InfinitPINN_Framework_Architecture_v0.2.pdf) | Framework v0.2 원본 |
+
+## UI Benchmark
 
 | 문서 | 설명 |
 |------|------|
